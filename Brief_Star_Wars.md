@@ -1,4 +1,4 @@
-Brief_Star_Wars.md
+Brief_Star_Wars.md MELL QUENTIN
 
 # Starwars 
 
@@ -58,7 +58,7 @@ PortScanDetected on 213.136.8.188
 Spyse Abuse Score : 7
 Dangerous IP
 
-Ce FQDN et les deux adresses IP qui y sont associées ont étés signalés en relation avec un cheval de troie, ainsi que pour scan de ports. Au vu du score VT de 31/70 pour le hash du malware associé, et des informations collectées, nous recommandons d'appliquer les règles nécessaires sur les pare-feu ainsi que de blacklister ces adresses IP et ce FQDN. Une sensibilisation aux risque liés à l'accès à des ressources non vérifiées et non sûres, ainsi qu'à l'utilisation de protocoles non sécurisés est également recommandée afin de prévenir les incidents de sécurités.
+Ce sous domaine et les deux adresses IP qui y sont associées ont étés signalés en relation avec un cheval de troie, ainsi que pour scan de ports. Au vu du score VT de 31/70 pour le hash du malware associé, et des informations collectées, nous recommandons d'appliquer les règles nécessaires sur les pare-feu ainsi que de blacklister ces adresses IP et ce sous domaine. Une sensibilisation aux risque liés à l'accès à des ressources non vérifiées et non sûres, ainsi qu'à l'utilisation de protocoles non sécurisés est également recommandée afin de prévenir les incidents de sécurités.
 
 
 

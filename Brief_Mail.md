@@ -1,4 +1,4 @@
-Brief_Mail.md
+Brief_Mail.md MELL QUENTIN
 
 # Qualif_Le_Mail.md
 
@@ -49,7 +49,7 @@ C:\Windows\winsxs\amd64_microsoft-windows-p..lprinting.resources_31bf3856ad364e3
 ###################################################################################
 ###################################################################################
 
-# Qualification du nom de domaine jquery.services : 
+# Qualification du nom de domaine jquery.services : le 08.11.2021 à 13h47
 
 
 ### Verdict : Malicious (OTX AlienVault)
@@ -73,5 +73,13 @@ Related Tags
 cobalt strike, bluelight, inkysquid, cve20201380, cve202126411
 
 VT Score : 10/89
-Relations avec plusieur sous domaines 
+Relations avec plusieur sous domaines
+
+Selon les logs, 3 malwares on été détectés :
+
+AVAST    Win32:Apanas\ [Trj]    Malware infection
+CLAMAV    Win.Trojan.Neshuta-1    Malware infection
+Ms Defender    Virus:Win32/Neshta.A    Malware infection
+
+D'après les informations contenues dans le mail, qui réfèrent à plusieurs malwares de type "cheval de troie", le VT Score de 10/89 et le nom de domaine jquery.services qui est directement reconnu comme malveillant, nous recommandons d'appliquer immédiatement des règles sur les pare-feu afin d'éviter tout risque en provenance de cet expéditeur. Nous pouvons aussi recommander une campagne de phising afin de sensibiliser aux risques liés au mails malveillants.
 

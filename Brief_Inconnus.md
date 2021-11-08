@@ -1,4 +1,4 @@
-Brief_Inconnus.md
+Brief_Inconnus.md MELL QUENTIN
 
 Des logs nous sont parvenus ce matin est nous avons beaucoup de mal à trouver si ces ip semblent sans danger.
 Pouvez-vous nous aider ? Faire un bref état pour chaque qualification 
@@ -85,7 +85,7 @@ asname : TTNet
 
 Abuse Score Spyse : 0
 
-Qualification sur dynamic.ttnet.com.tr :
+### Qualification sur dynamic.ttnet.com.tr :
 
 VT Score de 0/88
 Une relation avec un fichier malveillant :
@@ -248,6 +248,6 @@ Beaucoup de relations avec des malwares
 
 Spyse Score : N/A
 
-Au vu du score VirusTotal, cette adresse IP est connue pour véhiculer des malwares, nous recommandons donc d'instaurer des règles sur les pare-feu ainsi que de blacklister cettee adresse IP.
+Au vu du score VirusTotal, cette adresse IP est connue pour véhiculer des malwares, nous recommandons donc d'instaurer des règles sur les pare-feu ainsi que de blacklister cette adresse IP.
 
 ###############################################################
