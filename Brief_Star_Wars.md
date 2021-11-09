@@ -49,7 +49,7 @@ Trojan:Win32/Atptest.A
 
 1 Hash trouvé : 9b085c2f98fb87182cff149d74a75dcc2102d9362f4d1743bcf9cb7410616af5
 
-VT Score for FQDN towel.blinkenlights.nl : 0/89 mais Relations avec des fichiers dangereux
+VT Score for towel.blinkenlights.nl : 0/89 mais Relations avec des fichiers dangereux
 VT Score for IP 94.142.241.111 : 0/88 mais Relations avec des fichiers dangereux
 VT Score for IP 213.136.8.188 : 0/90 mais Relations avec des fichiers dangereux
 VT Score for Hash 9b085c2f98fb87182cff149d74a75dcc2102d9362f4d1743bcf9cb7410616af5 : 31/70
