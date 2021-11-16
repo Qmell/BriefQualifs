@@ -251,3 +251,9 @@ Spyse Score : N/A
 Au vu du score VirusTotal, cette adresse IP est connue pour véhiculer des malwares, nous recommandons donc d'instaurer des règles sur les pare-feu ainsi que de blacklister cette adresse IP.
 
 ###############################################################
+
+Synthèse :
+
+Au vu des VT scores, Spyse Scores et des relations trouvées avec des fichiers malveillants, certaines de ces IP sont directement reconnues comme malveillantes sur OTX AlienVault. Les adresses IP 88.241.161.210, 107.174.17.141, 178.162.0.128, 104.131.11.150 et 45.123.3.54 ne sont pas safe, nous recommandons d'instaurer des règles sur les pare-feu ainsi qu'une mise en liste noire.
+
+L'Ip 42.249.36.52 ne renvoie pas d'informations suspicieuses que ce soit sur VirusTotal, Spyse et OTX AlienVault. Elle appartient à une entreprise de réseau chinoise vérifiée. Cette IP semble sans danger et nous ne recommandons rien de spécial à son encontre.
